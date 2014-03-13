@@ -1,7 +1,7 @@
 fier165
 =======
 
-A collection of c++ projects for CS165
+A collection of c++ projects for CS165 (advanced intro to programming)
 
 curveCalc.cpp
 Calculates area under a curve using Riemann Sums for a set of predefined polynomials.  
